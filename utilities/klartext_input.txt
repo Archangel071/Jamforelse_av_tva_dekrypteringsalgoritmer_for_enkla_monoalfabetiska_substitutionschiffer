@@ -1,0 +1,52 @@
+"for example in agent-based computational economics, random forests, topic modeling and various forms of prediction. However, machines alone rarely advance knowledge as they require human guidance and capacity to reason; and they can introduce bias against certain social groups or sometimes underperform against humans.
+
+
+Interdisciplinary
+
+Interdisciplinary science involves the combination of two or more disciplines into one, such as bioinformatics, a combination of biology and computer science or cognitive sciences. The concept has existed since the ancient Greek period and it became popular again in the 20th century.
+
+
+Research
+
+Scientific research can be labelled as either basic or applied research. Basic research is the search for knowledge and applied research is the search for solutions to practical problems using this knowledge. Most understanding comes from basic research, though sometimes applied research targets specific practical problems. This leads to technological advances that were not previously imaginable.
+
+
+Scientific method
+
+Scientific research involves using the scientific method, which seeks to objectively explain the events of nature in a reproducible way. Scientists usually take for granted a set of basic assumptions that are needed to justify the scientific method: there is an objective reality shared by all rational observers; this objective reality is governed by natural laws; these laws were discovered by means of systematic observation and experimentation. Mathematics is essential in the formation of hypotheses, theories, and laws, because it is used extensively in quantitative modelling, observing, and collecting measurements.: 3–26  Statistics is used to summarise and analyse data, which allows scientists to assess the reliability of experimental results.
+
+
+In the scientific method an explanatory thought experiment or hypothesis is put forward as an explanation using parsimony principles and is expected to seek consilience – fitting with other accepted facts related to an observation or scientific question. This tentative explanation is used to make falsifiable predictions, which are typically posted before being tested by experimentation. Disproof of a prediction is evidence of progress.: 4–5  Experimentation is especially important in science to help establish causal relationships to avoid the correlation fallacy, though in some sciences such as astronomy or geology, a predicted observation might be more appropriate.
+
+
+When a hypothesis proves unsatisfactory it is modified or discarded. If the hypothesis survives testing, it may become adopted into the framework of a scientific theory, a validly reasoned, self-consistent model or framework for describing the behaviour of certain natural events. A theory typically describes the behaviour of much broader sets of observations than a hypothesis; commonly, a large number of hypotheses can be logically bound together by a single theory. Thus, a theory is a hypothesis explaining various other hypotheses. In that vein, theories are formulated according to most of the same scientific principles as hypotheses. Scientists may generate a model, an attempt to describe or depict an observation in terms of a logical, physical or mathematical representation, and to generate new hypotheses that can be tested by experimentation.
+
+
+While performing experiments to test hypotheses, scientists may have a preference for one outcome over another. Eliminating the bias can be achieved through transparency, careful experimental design, and a thorough peer review process of the experimental results and conclusions. After the results of an experiment are announced or published, it is normal practice for independent researchers to double-check how the research was performed, and to follow up by performing similar experiments to determine how dependable the results might be. Taken in its entirety, the scientific method allows for highly creative problem solving while minimising the effects of subjective and confirmation bias. Intersubjective verifiability, the ability to reach a consensus and reproduce results, is fundamental to the creation of all scientific knowledge.
+
+
+Literature
+
+Scientific research is published in a range of literature. Scientific journals communicate and document the results of research carried out in universities and various other research institutions, serving as an archival record of science. The first scientific journals, Journal des sçavans followed by Philosophical Transactions, began publication in 1665. Since that time the total number of active periodicals has steadily increased. In 1981, one estimate for the number of scientific and technical journals in publication was 11,500.
+
+
+Most scientific journals cover a single scientific field and publish the research within that field; the research is normally expressed in the form of a scientific paper. Science has become so pervasive in modern societies that it is considered necessary to communicate the achievements, news, and ambitions of scientists to a wider population.
+
+
+Challenges
+
+The replication crisis is an ongoing methodological crisis that affects parts of the social and life sciences. In subsequent investigations, the results of many scientific studies have been proven to be unrepeatable. The crisis has long-standing roots; the phrase was coined in the early 2010s as part of a growing awareness of the problem. The replication crisis represents an important body of research in metascience, which aims to improve the quality of all scientific research while reducing waste.
+
+
+An area of study or speculation that masquerades as science in an attempt to claim legitimacy that it would not otherwise be able to achieve is sometimes referred to as pseudoscience, fringe science, or junk science. Physicist Richard Feynman coined the term ""cargo cult science"" for cases in which researchers believe, and at a glance, look like they are doing science but lack the honesty to allow their results to be rigorously evaluated. Various types of commercial advertising, ranging from hype to fraud, may fall into these categories. Science has been described as ""the most important tool"" for separating valid claims from invalid ones.
+
+
+There can also be an element of political bias or ideological bias on all sides of scientific debates. Sometimes, research may be characterised as ""bad science"", research that may be well-intended but is incorrect, obsolete, incomplete, or over-simplified expositions of scientific ideas. The term scientific misconduct refers to situations such as where researchers have intentionally misrepresented their published data or have purposely given credit for a discovery to the wrong person.
+
+
+Philosophy
+
+
+
+
+There are different schools of thought in the philosophy of science"
